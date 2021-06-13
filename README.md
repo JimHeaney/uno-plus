@@ -1,4 +1,4 @@
-# Binary Decoder Soldering Kit
+# Uno Plus
 
 ## Overview
 The Arduino Uno is probably one of the most iconic microcontroller boards for makers. Over the last 10 years, hundreds of thousands of these blue boards have been the heart of millions of projects. I myself have had a few dozen projects with the Uno at the core. However, I felt that there were some issues with the Arduino Uno, so I decided to make my own version; the Uno +.
